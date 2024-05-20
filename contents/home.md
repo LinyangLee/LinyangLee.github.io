@@ -1,12 +1,10 @@
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+He obtained his PhD in computer science at Fudan University, advised by Prof. Xipeng Qiu.
 
 #### Email
-sli[at]cumt.edu.cn
+linyangli19[at]fudan.edu.cn
 
 #### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
+2019 - 2024, School of Computer Science, Fudan University
+2015 - 2019, School of Information Science and Technology, Fudan University
 
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
