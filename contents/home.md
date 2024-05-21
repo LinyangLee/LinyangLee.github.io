@@ -1,4 +1,9 @@
-He obtained his PhD in computer science at Fudan University, advised by Prof. Xipeng Qiu.
+
+He is working on LLM reasoning via synthetic data generation for the InternLM series in Shanghai AI Lab.
+
+He obtained his PhD in computer science at Fudan University, advised by Prof. Xipeng Qiu, focusing on AI safety and reliability.
+
+He worked at Tencent AI LAB advised by Dr. Duyu Tang.
 
 #### Email
 linyangli19@fudan.edu.cn
