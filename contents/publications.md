@@ -1,6 +1,6 @@
 #### Recent Publications ####
 
-
+- Yunfan Shao, Linyang Li, Yichuan Ma, Peiji Li, Demin Song, Qinyuan Cheng, Shimin Li, Xiaonan Li, Pengyu Wang, Qipeng Guo, Hang Yan, Xipeng Qiu, Xuanjing Huang, Dahua Lin. Case2Code: Learning Inductive Reasoning with Synthetic Data. Withdraw from EMNLP 2024 Findings and accepted by COLING 2024. [[paper]](https://arxiv.org/pdf/2403.17297)
 
 - InternLM Team  <strong>L. Li</strong>,  (2024). InternLM2 Technical Report. [[paper]](https://arxiv.org/pdf/2403.17297); [[Code]](https://github.com/InternLM/InternLM) 
 
