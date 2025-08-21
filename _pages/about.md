@@ -29,7 +29,7 @@ My research interests focus on Large Language Models (LLMs). My work lies in imp
 # 🔥 News
 
 - *2025.04*: We release [**InternThinker Go**](https://intern.openxlab.org.cn/internthinker/go-game/), the **first** general LLM with expert level Go performance. 
-- *2025.08*: &nbsp;🎉🎉 Our paper UnitCoder is accepted by EMNLP 2025.
+- *2025.08*: &nbsp;🎉🎉 Our paper UnitCoder is accepted by [EMNLP 2025](https://2025.emnlp.org/).
 
 
 # 📝 Publications 
