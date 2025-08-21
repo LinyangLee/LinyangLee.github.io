@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yichuan Ma"
-description              : "Yichuan Ma's Homepage"
+description              : 
 repository               : "Entarochuan/Entarochuan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yichuan Ma 马逸川"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. student at Fudan University and Shanghai AI Lab"
+  bio              : "Fudan University & Shanghai AI Lab"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
