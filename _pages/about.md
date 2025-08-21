@@ -51,6 +51,16 @@ My research interests focus on Large Language Models (LLMs). My work lies in imp
 
 ## Co-author Papers
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL, 2025</div><img src='images/paper_imgs/fastmcts.png' alt="paper" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FastMCTS: A Simple Sampling Strategy for Data Synthesis](https://arxiv.org/abs/2502.11476)
+
+Peiji Li, Kai Lv, Yunfan Shao, **Yichuan Ma**, Linyang Li, Xiaoqing Zheng, Xipeng Qiu, Qipeng Guo
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv, 2024</div><img src='images/paper_imgs/InternLM-Math.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,18 +71,9 @@ Huaiyuan Ying, Shuo Zhang, Linyang Li, Zhejian Zhou, Yunfan Shao, Zhaoye Fei, **
 
 </div>
 </div>
-
 <!-- Add more co-author papers here -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL, 2025</div><img src='images/paper_imgs/fastmcts.png' alt="paper" width="90%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[FastMCTS: A Simple Sampling Strategy for Data Synthesis](https://arxiv.org/abs/2502.11476)
-
-Peiji Li, Kai Lv, Yunfan Shao, **Yichuan Ma**, Linyang Li, Xiaoqing Zheng, Xipeng Qiu, Qipeng Guo
-
-</div>
-</div>
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -87,4 +88,4 @@ Peiji Li, Kai Lv, Yunfan Shao, **Yichuan Ma**, Linyang Li, Xiaoqing Zheng, Xipen
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.11 - Now*, Shanghai AI Lab, [InternLM Team](https://github.com/InternLM/InternLM), China.
+- *2023.11 - Now*, Shanghai AI Lab, [InternLM Team](https://github.com/InternLM), China.
