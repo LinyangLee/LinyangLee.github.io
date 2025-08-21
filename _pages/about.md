@@ -28,9 +28,9 @@ My research interests focus on Large Language Models (LLMs). My work lies in imp
 
 # 🔥 News
 
-- *2025.04*: We release [**InternThinker Go**](https://intern.openxlab.org.cn/internthinker/go-game/), the **first** general LLM with expert level Go performance. 
 - *2025.08*: &nbsp;🎉🎉 Our paper UnitCoder is accepted by [EMNLP 2025](https://2025.emnlp.org/).
-
+- *2025.07*: We release [InternS1](https://github.com/InternLM/Intern-S1), an advanced open-source multimodal reasoning model.
+- *2025.04*: We release [**InternThinker Go**](https://intern.openxlab.org.cn/internthinker/go-game/), the **first** general LLM with expert level Go performance. 
 
 # 📝 Publications 
 
@@ -60,6 +60,17 @@ Peiji Li, Kai Lv, Yunfan Shao, **Yichuan Ma**, Linyang Li, Xiaoqing Zheng, Xipen
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING, 2024</div><img src='images/paper_imgs/Case2Code.png' alt="paper" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Case2Code: Scalable Synthetic Data for Code Generation](https://arxiv.org/abs/2407.12504)
+
+Yunfan Shao, Linyang Li, **Yichuan Ma**, Peiji Li, Demin Song, Qinyuan Cheng, Shimin Li, Xiaonan Li, Pengyu Wang, Qipeng Guo, Hang Yan, Xipeng Qiu, Xuanjing Huang, Dahua Lin
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv, 2024</div><img src='images/paper_imgs/InternLM-Math.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
