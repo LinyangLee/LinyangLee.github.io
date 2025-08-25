@@ -1,16 +1,30 @@
-$(".header").click(function () {
-
-    $header = $(this);
-    //getting the next element
-    $content = $header.next();
-    //open up the content needed - toggle the slide- if visible, slide up, if not slidedown.
-    $content.slideToggle(500, function () {
-        //execute this after slideToggle is done
-        //change text of header based on visibility of content div
-        $header.text(function () {
-            //change text based on condition
-            return $content.is(":visible") ? "Collapse" : "Expand";
+// 自定义折叠功能
+document.addEventListener('DOMContentLoaded', function() {
+    // 为所有折叠标题添加点击事件
+    const headers = document.querySelectorAll('.collapsible-header');
+    
+    headers.forEach(header => {
+        header.addEventListener('click', function() {
+            const content = this.nextElementSibling;
+            const isExpanded = content.classList.contains('expanded');
+            
+            if (isExpanded) {
+                // 折叠内容
+                content.classList.remove('expanded');
+                this.classList.add('collapsed');
+            } else {
+                // 展开内容
+                content.classList.add('expanded');
+                this.classList.remove('collapsed');
+            }
         });
     });
-
+    
+    // 默认展开第一个爱好
+    const firstHeader = document.querySelector('.collapsible-header');
+    const firstContent = firstHeader?.nextElementSibling;
+    if (firstHeader && firstContent) {
+        firstContent.classList.add('expanded');
+        firstHeader.classList.remove('collapsed');
+    }
 });

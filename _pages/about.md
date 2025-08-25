@@ -31,6 +31,7 @@ My research interests focus on Large Language Models (LLMs). My work lies in imp
 - *2025.08*: &nbsp;🎉🎉 Our paper UnitCoder is accepted by [EMNLP 2025](https://2025.emnlp.org/).
 - *2025.07*: We release [InternS1](https://github.com/InternLM/Intern-S1), an advanced open-source multimodal reasoning model.
 - *2025.04*: We release [**InternThinker Go**](https://intern.openxlab.org.cn/internthinker/go-game/), the **first** general LLM with expert level Go performance. 
+- *2025.04*: We release [**InternBootCamp**](https://github.com/InternLM/InternBootcamp), a library of bootcamp environments for training LRMs. 
 
 # 📝 Publications 
 
@@ -91,8 +92,8 @@ Huaiyuan Ying, Shuo Zhang, Linyang Li, Zhejian Zhou, Yunfan Shao, Zhaoye Fei, **
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2024.09 - Now*, Ph.D. student in Computer Science, Fudan University and [Shanghai AI Lab](https://www.shlab.org.cn/)
-- *2020.09 - 2024.06*, Bachelor's degree in Artificial Intelligence, Shanghai Jiao Tong University
+- <img src="images/FDU.jpg" alt="Fudan University" width="30" height="30"> *2024.09 - Now*, Ph.D. student in Computer Science, Fudan University and [Shanghai AI Lab](https://www.shlab.org.cn/) 
+- <img src="images/SJTU.png" alt="Shanghai Jiao Tong University" width="30" height="30"> *2020.09 - 2024.06*, Bachelor's degree in Artificial Intelligence, Shanghai Jiao Tong University 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -100,3 +101,21 @@ Huaiyuan Ying, Shuo Zhang, Linyang Li, Zhejian Zhou, Yunfan Shao, Zhaoye Fei, **
 
 # 💻 Internships
 - *2023.11 - Now*, Shanghai AI Lab, [InternLM Team](https://github.com/InternLM), China.
+
+# 🎯 Hobbies
+
+## <img src="images/go.svg" alt="Go" width="20" height="20"> Go
+I am an amateur 5-dan Go  player with several notable achievements:
+- **2021 Shanghai University Go League**: Best Newcomer Award
+- **Suzhou Go League**: Champion
+- **Suzhou Youth Go Championship**: 3-time Champion
+
+I am currently ranked 9-dan on [FoxGo](https://www.foxwq.com/), welcome anyone to a game!
+
+## <img src="images/badminton.svg" alt="badminton" width="20" height="20"> Badminton
+
+Started playing badminton at the age of 6.
+
+## <img src="images/SC2.png" alt="SC2" width="20" height="20"> StarCraft II
+
+SC2 is the best game!
