@@ -92,8 +92,9 @@ Huaiyuan Ying, Shuo Zhang, Linyang Li, Zhejian Zhou, Yunfan Shao, Zhaoye Fei, **
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- <img src="images/FDU.jpg" alt="Fudan University" width="30" height="30"> *2024.09 - Now*, Ph.D. student in Computer Science, Fudan University and [Shanghai AI Lab](https://www.shlab.org.cn/) 
-- <img src="images/SJTU.png" alt="Shanghai Jiao Tong University" width="30" height="30"> *2020.09 - 2024.06*, Bachelor's degree in Artificial Intelligence, Shanghai Jiao Tong University 
+<img src="images/FDU.png" alt="Fudan University" width="35" height="35"> *2024.09 - Now*, Ph.D. student in Computer Science, Fudan University and [Shanghai AI Lab](https://www.shlab.org.cn/) 
+
+<img src="images/SJTU.png" alt="Shanghai Jiao Tong University" width="35" height="35"> *2020.09 - 2024.06*, Bachelor's degree in Artificial Intelligence, Shanghai Jiao Tong University 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -105,12 +106,15 @@ Huaiyuan Ying, Shuo Zhang, Linyang Li, Zhejian Zhou, Yunfan Shao, Zhaoye Fei, **
 # 🎯 Hobbies
 
 ## <img src="images/go.svg" alt="Go" width="20" height="20"> Go
-I am an amateur 5-dan Go  player with several notable achievements:
-- **2021 Shanghai University Go League**: Best Newcomer Award
-- **Suzhou Go League**: Champion
-- **Suzhou Youth Go Championship**: 3-time Champion
-
-I am currently ranked 9-dan on [FoxGo](https://www.foxwq.com/), welcome anyone to a game!
+I am an amateur 5-dan Go player (currently ranked 9-dan on [FoxGo](https://www.foxwq.com/)), welcome anyone to a game!
+<details>
+<summary><strong>Some notable achievements</strong></summary>
+<ul>
+<li><strong>2021 Shanghai University Go League</strong>: Best Newcomer Award</li>
+<li><strong>Suzhou Go League</strong>: Champion</li>
+<li><strong>Suzhou Youth Go Championship</strong>: 3-time Champion</li>
+</ul>
+</details>
 
 ## <img src="images/badminton.svg" alt="badminton" width="20" height="20"> Badminton
 
