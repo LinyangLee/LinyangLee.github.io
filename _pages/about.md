@@ -28,6 +28,7 @@ My research interests focus on Large Language Models (LLMs). My work lies in imp
 
 # 🔥 News
 
+- *2025.09*: &nbsp;🎉🎉 Our paper Mixing Expert Knowledge is accepted by [NIPS 2025](https://neurips.cc/).
 - *2025.08*: &nbsp;🎉🎉 Our paper UnitCoder is accepted by [EMNLP 2025](https://2025.emnlp.org/).
 - *2025.07*: We release [InternS1](https://github.com/InternLM/Intern-S1), an advanced open-source multimodal reasoning model.
 - *2025.04*: We release [**InternThinker Go**](https://intern.openxlab.org.cn/internthinker/go-game/), the **first** general LLM with expert level Go performance. 
