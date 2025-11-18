@@ -76,13 +76,13 @@ Yichuan Ma, Yunfan Shao, Peiji Li, Demin Song, Qipeng Guo, Linyang Li, Xipeng Qi
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL, 2025</div><img src='images/paper_imgs/fastmcts.png' alt="paper" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-</div>
-</div>
+
 
 [FastMCTS: A Simple Sampling Strategy for Data Synthesis](https://arxiv.org/abs/2502.11476)
 
