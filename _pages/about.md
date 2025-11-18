@@ -81,6 +81,9 @@ Yichuan Ma, Yunfan Shao, Peiji Li, Demin Song, Qipeng Guo, Linyang Li, Xipeng Qi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL, 2025</div><img src='images/paper_imgs/fastmcts.png' alt="paper" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+</div>
+</div>
+
 [FastMCTS: A Simple Sampling Strategy for Data Synthesis](https://arxiv.org/abs/2502.11476)
 
 Peiji Li, Kai Lv, Yunfan Shao, Yichuan Ma, Linyang Li, Xiaoqing Zheng, Xipeng Qiu, Qipeng Guo
