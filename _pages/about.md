@@ -26,7 +26,7 @@ I earned my bachelor's degree in Fudan University and got my PHD in Fudan Univer
 
 Currently, I'm leading an agile team working on Expert-level tasks that current LLMs still fail to solve. 
 
-We are recently working on AI4EDA topic based on [InternBootcap](https://arxiv.org/pdf/2508.08636) as a core component of the [SAGE Framework](https://www.shlab.org.cn/news/5444221).
+We are recently working on AI4EDA topic based on [InternBootcamp](https://arxiv.org/pdf/2508.08636) as a core component of the [SAGE Framework](https://www.shlab.org.cn/news/5444221) proposed by [Prof. Bowen Zhou](https://scholar.google.com/citations?user=h3Nsz6YAAAAJ&hl=en).
 
 
 
