@@ -17,25 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
 
-<!-- Greetings! I'm a first-year Ph.D. student jointly supervised by Fudan University and [Shanghai AI Lab](https://www.shlab.org.cn/), specializing in artificial intelligence. I earned my bachelor's degree in AI from Shanghai Jiao Tong University. I'm also interning at the [InternLM](https://github.com/InternLM/InternLM) team. -->
+Hi, I'm a research scientist at [Shanghai AI Lab](https://www.shlab.org.cn/), working on AI4Science with LLM reasoning technique.
 
-Hi, I'm a young scientist at [Shanghai AI Lab](https://www.shlab.org.cn/), working on AI4Science with LLM reasoning technique.
+I'm also a postdoctoral researcher at [CUHK IAIRI](https://iairi.cuhk.edu.hk/) with [Prof. Dahua Lin](http://dahua.site/).
+
 I earned my bachelor's degree in Fudan University and got my PHD in Fudan University advised by [Prof. Xipeng Qiu](https://xpqiu.github.io/).
 
 Currently, I'm leading an agile team working on Expert-level tasks that current LLMs still fail to solve. 
-In my defense, I believe with enviroments strong enough for experience learning, and smart human knowledge teaching, LLMs can and will solve those things for human.
+
+We are recently working on AI4EDA topic based on [InternBootcap](https://arxiv.org/pdf/2508.08636) as a core component of the [SAGE Framework](https://www.shlab.org.cn/news/5444221).
 
 
-
-<!-- My research interests focus on Large Language Models (LLMs). My work lies in improving LLMs' reasoning capabilities in specialized domains through synthetic data generation and reinforcement learning. -->
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-
+- *2026.01*: &nbsp; Our paper working on AI4EDA, TL-GRPO is released [Arxiv Preprint](https://arxiv.org/pdf/2601.16480).
 - *2025.09*: &nbsp;🎉🎉 Our paper Mixing Expert Knowledge is accepted by [NIPS 2025](https://neurips.cc/).
 - *2025.08*: &nbsp;🎉🎉 Our paper UnitCoder is accepted by [EMNLP 2025](https://2025.emnlp.org/).
 - *2025.07*: We release [InternS1](https://github.com/InternLM/Intern-S1), an advanced open-source multimodal reasoning model.
